@@ -1,3 +1,7 @@
+# https://github.com/lucaarod/lab11-LR-GC
+# Partner 1: Luca Rodriguez
+# Partner 2: Guilherme Carvalheira
+
 import unittest
 from calculator import *
 
