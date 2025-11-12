@@ -4,6 +4,7 @@
 
 import unittest
 from calculator import *
+import math
 
 class TestCalculator(unittest.TestCase):
     ######### Partner 2
